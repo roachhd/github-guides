@@ -179,3 +179,5 @@ Last updated Jan 15, 2014
 [19]: https://github.com/issues
 [20]: https://guides.github.com/pulse.png
   
+
+[Source](https://guides.github.com/features/issues/ "Permalink to Mastering Issues · GitHub Guides")
