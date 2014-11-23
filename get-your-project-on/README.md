@@ -1,1 +1,1 @@
-# Getting yoke Project in GitHub 
+# Getting Your Project on GitHub 
