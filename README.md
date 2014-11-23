@@ -1,4 +1,8 @@
 blondes-guides-to-github
 ========================
 
-Get GitHub the first time, even if you're Blonde! A gitbook-afied GitHub Guides. Useful teaching resources and newbie learning reference.
+
+GitHub is the best way to build and ship software.
+Powerful collaboration, code review, and code management for open source and private projects.
+
+These guides will get you started in Open Source collaboration on GitHub.
