@@ -4,7 +4,7 @@
 * [Getting your Project on GitHub](get-your-project-on/README.md)
 * [Contributing to Open Source on GitHub](contributing/README.md)
 * [Hello World](hello/README.md)
-* [Forking Projects](forking/README.md)
+* [Forking Projects](fork/README.md)
 * [Be Social](social/README.md)
 * [Making your Code Citable](citadel/README.md)
 * [Mastering Issues](issues/README.md)
