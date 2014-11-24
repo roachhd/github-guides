@@ -1,5 +1,4 @@
-blondes-guides-to-github
-========================
+# GitHub Guides
 
 
 GitHub is the best way to build and ship software.
