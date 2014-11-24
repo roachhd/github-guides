@@ -6,4 +6,4 @@ Powerful collaboration, code review, and code management for open source and pri
 
 These guides will get you started in Open Source collaboration on GitHub.
 
-*The GitHub Guides*
+*The GitHub Guides*.
