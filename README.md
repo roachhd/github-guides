@@ -7,4 +7,4 @@ These guides will get you started in Open Source collaboration on GitHub.
 
 __*The GitHub Guides*__.
 
-[GitHub(http://github.com)
+[GitHub](http://github.com)
